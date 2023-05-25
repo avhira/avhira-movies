@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/avhira-movies/static/css/main.9c2fef9f.css",
+    "main.js": "/avhira-movies/static/js/main.140be1e2.js",
+    "static/js/787.22ec10b3.chunk.js": "/avhira-movies/static/js/787.22ec10b3.chunk.js",
+    "index.html": "/avhira-movies/index.html",
+    "main.9c2fef9f.css.map": "/avhira-movies/static/css/main.9c2fef9f.css.map",
+    "main.140be1e2.js.map": "/avhira-movies/static/js/main.140be1e2.js.map",
+    "787.22ec10b3.chunk.js.map": "/avhira-movies/static/js/787.22ec10b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c2fef9f.css",
+    "static/js/main.140be1e2.js"
+  ]
+}
